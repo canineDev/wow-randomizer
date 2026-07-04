@@ -23,3 +23,10 @@ Randomizes a myriad of WoW's features, including but not limited to:
 ### Installation Instructions
 1. Setup [CMaNGOS](https://github.com/cmangos/mangos-classic), as well as the database.
 2. Coming Soon Bro
+
+### Current Roadmap
+- Finish level brackets (In Progress)
+- Polish mob randomization 
+- Implement zone keys (Gate Logic)
+- Implement check items/spells for pickups and trainers respectively
+- AIO script to handle functionality and configuration

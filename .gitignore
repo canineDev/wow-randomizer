@@ -1,0 +1,6 @@
+src/wow-randomizer
+src/main.o
+csv/csv.o
+csv/main.o
+csv/zone-summary
+csv/zoneSummary.o
