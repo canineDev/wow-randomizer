@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-std=c11 -Wall -Wextra -O2 -g
-TARGET=wow-randomizer
-SRC=src/main.c src/csv.c src/zoneSummary.c
+TARGET=zone-summary
+SRC=main.c csv.c zoneSummary.c
 OBJ=$(SRC:.c=.o)
 
 all: $(TARGET)
