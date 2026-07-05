@@ -2,3 +2,4 @@ src/wow-randomizer
 src/main.o
 csv/
 wow-randomizer
+src/spawnsCSV.o
