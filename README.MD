@@ -1,7 +1,8 @@
 # WoW Randomizer (1.12.2)
 
-## For non-commercial use with open-source emulated cores
-
+## DISCLAIMER
+This is a purely passion-driven project for non-commercial use with open-source emulated cores.
+Constructive criticism is welcome
 ### Functionality
 Randomizes a myriad of WoW's features, including but not limited to:
 - Creatures (Mobs, Vendors, Trainers, etc.) that spawn within a zone
