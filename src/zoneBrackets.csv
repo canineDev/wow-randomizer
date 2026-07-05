@@ -1,0 +1,51 @@
+zone_id,zone_name,enabled,min_level,max_level,pool_mode,spawns,maps,x_lower,x_upper,y_lower,y_upper,notes
+1,Dun Morogh,1,1,10,catchall,1547,0,-6606.950,-4001.150,-2482.000,910.628,generated
+3,Badlands,1,35,45,catchall,617,0,-7474.280,-6023.340,-4211.820,-2102.410,generated
+4,Blasted Lands,1,45,55,catchall,877,0,-12323.900,-10477.900,-3693.570,-2384.940,generated
+8,Swamp of Sorrows,1,35,45,catchall,644,0,-11170.000,-9540.260,-4662.270,-2348.960,generated
+10,Duskwood,1,20,30,catchall,885,0,-11256.500,-9956.310,-1537.570,625.039,generated
+11,Wetlands,1,20,30,catchall,1417,0,-4483.210,-2368.500,-4087.300,-75.230,generated
+12,Elwynn Forest,1,1,10,catchall,1695,0,-10147.100,-8176.060,-1645.120,815.569,generated
+14,Durotar,1,1,10,catchall,1677,1,-1753.700,1552.740,-5817.380,-3767.860,generated
+15,Dustwallow Marsh,1,35,45,catchall,1609,1,-5103.360,-2219.350,-5240.793,-2562.110,generated
+16,Azshara,1,45,55,catchall,1624,1,1718.352,5295.301,-7947.520,-3853.540,generated
+17,The Barrens,1,10,25,catchall,3718,1,-4847.450,1648.130,-4334.780,-943.000,generated
+25,Blackrock Mountain,1,50,60,catchall,85,0,-7655.130,-7179.410,-1319.040,-863.725,generated
+28,Western Plaguelands,1,51,58,catchall,1046,0,902.236,3115.600,-2616.740,-816.703,generated
+33,Stranglethorn Vale,1,30,45,catchall,1695,0,-15024.800,-11272.500,-1166.550,1339.330,generated
+36,Alterac Mountains,1,30,40,catchall,713,0,-223.589,1352.670,-1760.850,499.850,generated
+38,Loch Modan,1,10,20,catchall,966,0,-6264.810,-4490.570,-4296.110,-2495.330,generated
+40,Westfall,1,10,20,catchall,1435,0,-11789.877,-6459.147,540.824,2531.255,generated
+41,Deadwind Pass,1,55,60,catchall,120,0,-11405.500,-10282.900,-2487.770,-1722.180,generated
+44,Redridge Mountains,1,15,25,catchall,864,0,-9925.310,-8656.910,-3503.220,-1761.460,generated
+45,Arathi Highlands,1,30,40,catchall,1233,0,-2458.360,-547.700,-4279.380,-1434.951,generated
+46,Burning Steppes,1,50,58,catchall,715,0,-8501.920,-7442.290,-3051.950,-540.000,generated
+47,The Hinterlands,1,40,50,catchall,924,0,-757.128,1096.240,-5089.860,-1950.500,generated
+51,Searing Gorge,1,43,50,catchall,493,0,-7351.070,-6340.860,-1989.170,-619.556,generated
+85,Tirisfal Glades,1,1,10,catchall,1794,0,1536.160,3234.780,-1112.760,1986.860,generated
+130,Silverpine Forest,1,10,20,catchall,1181,0,-759.032,1529.370,35.553,2324.167,generated
+139,Eastern Plaguelands,1,53,60,catchall,1698,0,1327.920,3492.420,-5613.110,-2411.260,generated
+141,Teldrassil,1,1,10,catchall,1151,1,8639.220,11056.300,226.025,2213.970,generated
+148,Darkshore,1,10,20,catchall,1717,1,4158.820,8346.420,-1658.750,1172.255,generated
+215,Mulgore,1,1,10,catchall,1835,1,-3515.390,-448.712,-1485.730,588.118,generated
+267,Hillsbrad Foothills,1,20,30,catchall,1187,0,-1753.801,264.340,-1877.950,648.284,generated
+331,Ashenvale,1,18,30,catchall,1984,1,1319.400,4265.090,-3793.690,1620.844,generated
+357,Feralas,1,40,50,catchall,1684,1,-6436.390,-2621.930,-788.135,4081.639,generated
+361,Felwood,1,48,55,catchall,986,1,3519.210,7317.060,-2271.200,-193.845,generated
+400,Thousand Needles,1,25,35,catchall,928,1,-6628.210,-4222.910,-4318.720,-821.762,generated
+405,Desolace,1,30,40,catchall,1668,1,-2458.620,279.712,525.794,3446.460,generated
+406,Stonetalon Mountains,1,15,27,catchall,996,1,-278.160,2734.820,-906.409,2005.940,generated
+440,Tanaris,1,40,50,catchall,2269,1,-11918.300,-6673.600,-5657.658,-1959.680,generated
+490,Un'Goro Crater,1,48,55,catchall,927,1,-8252.560,-6033.250,-2454.940,-214.183,generated
+493,Moonglade,1,1,60,service_only,306,1,7328.840,8075.920,-3034.330,-2088.100,generated
+618,Winterspring,1,53,60,catchall,1292,1,4254.920,8216.490,-5412.490,-2285.770,generated
+1377,Silithus,1,55,60,catchall,1841,1,-8352.790,-6111.150,-320.650,2035.970,generated
+1477,The Temple of Atal'Hakkar,1,45,55,catchall,60,0,-10444.900,-10205.600,-4088.750,-3826.080,generated
+1497,Undercity,1,1,60,service_only,360,0,1246.150,1846.190,20.254,475.199,generated
+1519,Stormwind City,1,1,60,service_only,428,0,-9104.650,-8322.380,276.694,1175.500,generated
+1537,Ironforge,1,1,60,service_only,316,0,-5068.160,-4588.300,-1326.660,-848.374,generated
+1637,Orgrimmar,1,1,60,service_only,383,1,1384.620,2165.000,-4839.130,-3902.940,generated
+1638,Thunder Bluff,1,1,60,service_only,233,1,-1474.760,-894.109,-352.295,379.223,generated
+1657,Darnassus,1,1,60,service_only,363,1,9584.190,10294.300,2042.370,2670.300,generated
+2557,Dire Maul,1,55,60,catchall,3,1,-3801.350,-3669.070,1038.398,1135.470,generated
+3478,Gates of Ahn'Qiraj,1,55,60,catchall,3,1,-8233.120,-8215.190,1494.090,1583.800,generated
