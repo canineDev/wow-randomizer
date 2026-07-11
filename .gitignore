@@ -3,3 +3,7 @@ src/main.o
 csv/
 wow-randomizer
 src/spawnsCSV.o
+creatureZones.csv
+.~lock.creatureZones.csv#
+.gitignore
+.gitignore
